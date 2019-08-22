@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03PP09_CookieCalories", "C03PP09_CookieCalories\C03PP09_CookieCalories.csproj", "{9A16A923-92BC-4155-9260-E91A68B7D351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A16A923-92BC-4155-9260-E91A68B7D351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A16A923-92BC-4155-9260-E91A68B7D351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A16A923-92BC-4155-9260-E91A68B7D351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A16A923-92BC-4155-9260-E91A68B7D351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFE8E60-12A6-48F9-A30F-DC5F35C7BFB4}
+	EndGlobalSection
+EndGlobal
